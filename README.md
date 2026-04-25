@@ -81,7 +81,7 @@
 
 
 
-<img width="1024" height="1536" alt="Playlist manager flowchart in C++" src="https://github.com/user-attachments/assets/39fac0f9-fd43-4c7a-a81d-13e957dc71ad" />
+<img width="1486" height="1600" alt="WhatsApp Image 2026-04-20 at 6 31 35 AM" src="https://github.com/user-attachments/assets/a53aa632-f9fa-475b-8026-1a078f689197" />
 
 
 
